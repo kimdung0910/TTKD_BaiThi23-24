@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TTKD_2021050135_BaiThi23-24.props" />
+</Project>
